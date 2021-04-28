@@ -21,4 +21,4 @@ for (i in 1:6) {
   print(Box.test(data[, i+1], lag=20, type="Ljung-Box"))
 }
 
-
+#change
